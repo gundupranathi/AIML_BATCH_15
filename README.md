@@ -1,3 +1,11 @@
 # AIML_BATCH_15
 #[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Untitled0.ipynb]
 #[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment2.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment3.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment4.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment5_AIML.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment6.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment7.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment8.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment9.ipynb]
+#[https://github.com/gundupranathi/AIML_BATCH_15/blob/main/Assignment10.ipynb]
